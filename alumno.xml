@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personas>
+    <persona>
+        <apellido>manrique</apellido>
+        <ciudad>Callao</ciudad>
+        <edad>18</edad>
+        <nombre>Braulio</nombre>
+    </persona>
+</personas>
